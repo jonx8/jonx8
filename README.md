@@ -5,7 +5,15 @@ I mainly work with **Java** and the Spring ecosystem, building reliable and secu
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
+
+- **Bachelor of Science in Software Engineering** – ETU, 2025  
+- **Master’s Student in Public Health** – ITMO University (current)  
+
+---
+
+<details>
+<summary>🛠️ Tech Stack</summary>
 
 ### 🔤 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,22 +34,21 @@ I mainly work with **Java** and the Spring ecosystem, building reliable and secu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+</details>
 
----
-## 🎓 Education
-
-- **Bachelor of Science in Software Engineering** – ETU, 2025  
-- **Master’s Student in Public Health** – ITMO University (current)  
-
----
-
-## 📊 GitHub Stats
+<details>
+<summary>📊 GitHub Stats</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonx8&layout=compact&hide=jupyter%20notebook&theme=default)
 
----
+</details>
 
-## 📬 Contact Me
+<details>
+<summary>📬 Contact Me</summary>
 
 - 📧 Email: [andrei.malykh.0@gmail.com](mailto:andrei.malykh.0@gmail.com) 
 - 💬 Telegram: [@xekoro10](https://t.me/xekoro10)  
+
+</details>
+
+
