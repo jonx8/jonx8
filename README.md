@@ -17,6 +17,7 @@ I mainly work with **Java** and the Spring ecosystem, building reliable and secu
 
 ### 🔤 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,7 +26,9 @@ I mainly work with **Java** and the Spring ecosystem, building reliable and secu
 
 ### 🏗️ Technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-35495E?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ### ⚙️ Tools
@@ -39,9 +42,7 @@ I mainly work with **Java** and the Spring ecosystem, building reliable and secu
 <details>
 <summary>📊 GitHub Stats</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonx8&layout=compact&hide=jupyter%20notebook&theme=default)
-
-</details>
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonx8&theme=github_dark)
 
 <details>
 <summary>📬 Contact Me</summary>
